@@ -36,7 +36,7 @@ currently_learning: 更深层的二进制安全
 - 🛠️ 开发 **IDA 脚本** 用于反混淆分析
 - 📱 研究 **iOS / Android** 应用安全
 - 📚 分享逆向技术教程与实战经验
-- 💬 欢迎交流: **QQ群 702724554**
+- 💬 欢迎交流: **微信: Ays971124**
 
 ---
 
@@ -114,11 +114,14 @@ currently_learning: 更深层的二进制安全
   <a href="https://github.com/muyang520">
     <img src="https://img.shields.io/badge/GitHub-muyang520-181717?style=for-the-badge&logo=github" />
   </a>
+  <a href="https://space.bilibili.com/439348342">
+    <img src="https://img.shields.io/badge/哔哩哔哩-沐阳教程-FB7299?style=for-the-badge&logo=bilibili&logoColor=white" />
+  </a>
   <a href="https://github.com/muyang520/muyangcoursedescription">
     <img src="https://img.shields.io/badge/课程-沐阳逆向-00d9ff?style=for-the-badge&logo=bookstack&logoColor=white" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/QQ群-702724554-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white" />
+    <img src="https://img.shields.io/badge/微信-Ays971124-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
   </a>
 </p>
 
