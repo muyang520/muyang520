@@ -83,19 +83,7 @@ currently_learning: 更深层的二进制安全
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=muyang520&show_icons=true&theme=tokyonight&hide_border=true&locale=cn&include_all_commits=true" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=muyang520&theme=tokyonight&hide_border=true&locale=zh_Hans" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muyang520&layout=compact&theme=tokyonight&hide_border=true&locale=cn&langs_count=8" />
-</p>
-
----
-
-## 🏆 GitHub 奖杯
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muyang520&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&no-bg=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muyang520&layout=compact&theme=tokyonight&hide_border=true&locale=cn&langs_count=8" />
 </p>
 
 ---
