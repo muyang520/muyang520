@@ -3,12 +3,12 @@
 # 你好，我是沐阳（和沐阳学逆向与Ai）
 
 <a href="https://space.bilibili.com/439348342">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=1000&color=16B998&center=true&vCenter=true&width=780&height=44&lines=%3E+Android+%26+iOS+%E5%8F%8C%E7%AB%AF%E9%80%86%E5%90%91%E4%B8%8E%E9%A3%8E%E6%8E%A7%E5%AF%B9%E6%8A%97+%C2%B7+750%2B+%E4%BB%98%E8%B4%B9%E5%AD%A6%E5%91%98;%3E+%E5%BA%95%E5%B1%82%E7%A0%B4%E9%98%B2%EF%BC%9A%E5%86%85%E6%A0%B8%E9%9A%90%E8%97%8F+Frida+%2F+eBPF+%2F+OLLVM+%2F+%E7%99%BD%E7%9B%92AES;%3E+AI+%2B+MCP+%E8%87%AA%E5%8A%A8%E5%8C%96%E9%80%86%E5%90%91%EF%BC%9AJadx-MCP+%2F+IDA-Pro-MCP+%E5%AE%9E%E6%88%98" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=1000&color=16B998&center=true&vCenter=true&width=780&height=44&lines=%3E+Android+%26+iOS+%E5%8F%8C%E7%AB%AF%E9%80%86%E5%90%91%E4%B8%8E%E9%A3%8E%E6%8E%A7%E5%AF%B9%E6%8A%97+%C2%B7+%E8%BF%91%E5%8D%83%E5%90%8D%E4%BB%98%E8%B4%B9%E5%AD%A6%E5%91%98;%3E+%E5%BA%95%E5%B1%82%E7%A0%B4%E9%98%B2%EF%BC%9A%E5%86%85%E6%A0%B8%E9%9A%90%E8%97%8F+Frida+%2F+eBPF+%2F+OLLVM+%2F+%E7%99%BD%E7%9B%92AES;%3E+AI+%2B+MCP+%E8%87%AA%E5%8A%A8%E5%8C%96%E9%80%86%E5%90%91%EF%BC%9AJadx-MCP+%2F+IDA-Pro-MCP+%E5%AE%9E%E6%88%98" alt="Typing SVG" />
 </a>
 
 <p>
   <a href="https://space.bilibili.com/439348342"><img src="https://img.shields.io/badge/B%E7%AB%99-%E5%92%8C%E6%B2%90%E9%98%B3%E5%AD%A6%E9%80%86%E5%90%91%E4%B8%8EAi-FB7299?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili" /></a>
-  <img src="https://img.shields.io/badge/%E7%B4%AF%E8%AE%A1%E5%AD%A6%E5%91%98-750%2B-16B998?style=flat-square" alt="Students" />
+  <img src="https://img.shields.io/badge/%E7%B4%AF%E8%AE%A1%E5%AD%A6%E5%91%98-%E8%BF%91%E5%8D%83%E4%BA%BA-16B998?style=flat-square" alt="Students" />
   <img src="https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E8%8A%82%E5%A5%8F-2024%E8%87%B3%E4%BB%8A%E6%AF%8F%E6%9C%88%E6%9B%B4%E6%96%B0-2563EB?style=flat-square" alt="Updates" />
   <img src="https://komarev.com/ghpvc/?username=muyang520&label=%E4%B8%BB%E9%A1%B5%E8%AE%BF%E5%AE%A2&color=0F172A&style=flat-square" alt="Views" />
 </p>
